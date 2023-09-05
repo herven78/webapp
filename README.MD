@@ -2,6 +2,8 @@ Bonjour à tous!
 
 I hope you are good!
 
+c'est parti pour un petit tp!
+
 Vous venez d'arriver en Entreprise , c'est votre premiere journée et pour cela le Directeur Informatique 
 décide de vous faire un petit cadeau(un petit projet).
 
