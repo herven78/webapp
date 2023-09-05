@@ -5,7 +5,7 @@ I hope you are good!
 c'est parti pour un petit tp!
 
 Vous venez d'arriver en Entreprise , c'est votre premiere journée et pour cela le Directeur Informatique 
-décide de vous faire un petit cadeau(un petit projet).
+décide de vous offrir un petit cadeau(un petit projet).
 
 En tant qu'Ingénieur Devops , vous etes plutot a l'aise avec la conteneuristaion.
 Votre DI vous demande de conteneuriser un site web : Pour cela il vous fournit tout le code du site , ainsi que les outils nécessaires pour son deploiement. 
