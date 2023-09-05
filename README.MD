@@ -18,6 +18,7 @@ Prerequis : Installer Docker et git
 -etape 1: Creer un dossier "webapp"
 
 -etape 2: Creer un Dockerfile comme sur la capture 1
+NB:Dans le fichier Dockerfile assurez vous de modifier le Maintainer "MAINTAINER votre_nom votre_adresse_email"
 
 -etape 3: Construisez votre image avec la commande : "docker build -t webapp:v1 . " voir la capture 2 ,assurez vous d'etre dans le dossier 
 webapp contenant le Dockerfile et le fichier du site que vous avez clonez.
@@ -29,6 +30,8 @@ webapp contenant le Dockerfile et le fichier du site que vous avez clonez.
 Testez en saisissant dans votre navigateur :  "localhost:80" voir capture 5
 
 Le tutoriel a suivre se trouve ici : https://github.com/herven78/webapp.git
+
+
 Bonne chance !
  
 
