@@ -1,4 +1,4 @@
-Bonjour à tous!
+ Bonjour à tous!
 
 I hope you are good!
 
@@ -8,14 +8,14 @@ Vous venez d'arriver en Entreprise , c'est votre premiere journée et pour cela 
 décide de vous faire un petit cadeau(un petit projet).
 
 En tant qu'Ingénieur Devops , vous etes plutot a l'aise avec la conteneuristaion.
-Votre DI vous demande de conteneuriser un site web : Pour cela il vous fourni tout le code du site , ainsi que les outils nécessaire pour son deploiement. 
+Votre DI vous demande de conteneuriser un site web : Pour cela il vous fournit tout le code du site , ainsi que les outils nécessaires pour son deploiement. 
 Alors à vous de jouer
 
-le git du site web a conteneuriser est : https://github.com/herven78/webapp.git
+le git du site web a conteneuriser se trouve ici  : https://github.com/herven78/webapp.git
 
 Prerequis : Installer Docker et git
 
--etape 1: Creer un dossier webapp 
+-etape 1: Creer un dossier "webapp"
 
 -etape 2: Creer un Dockerfile comme sur la capture 1
 
@@ -27,6 +27,8 @@ webapp contenant le Dockerfile et le fichier du site que vous avez clonez.
 -etape 5: demarrer le conteneur "docker run --name monsite -d -p 80:80 webapp" voir capture 4
 
 Testez en saisissant dans votre navigateur :  "localhost:80" voir capture 5
+
+Bonne chance !
  
 
 @hv
